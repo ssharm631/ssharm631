@@ -36,14 +36,11 @@ Check out what I’m building now, plus a selection of past projects — GenAI, 
 
 [View Portfolio ->](https://www.ssharma.ai/portfolio)
 
-## 💬 My Website
-
-To find out more about me and the work I am doing, feel free to visit my [![website.](https://img.shields.io/badge/Website-Visit-lightgrey?logo=google-chrome)](https://www.ssharma.ai)
-
 ## 📫 Connect With Me
 
+[![Website](https://img.shields.io/badge/Website-Visit-lightgrey?logo=google-chrome)](https://www.ssharma.ai)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/sagar-sharma-bme/)
+
 [![Email](https://img.shields.io/badge/Email-Send-green?logo=gmail)](mailto:ssharm631@gmail.com)
-
-
 
