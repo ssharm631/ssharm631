@@ -38,7 +38,7 @@ Check out what I’m building now, plus a selection of past projects — GenAI, 
 
 ## 💬 My Website
 
-To find out more about me and the work I am doing, feel free to visit my [![website.](https://img.shields.io/badge/Website-Visit-lightgrey?logo=google-chrome](https://www.ssharma.ai)
+To find out more about me and the work I am doing, feel free to visit my [![website.](https://img.shields.io/badge/Website-Visit-lightgrey?logo=google-chrome)](https://www.ssharma.ai)
 
 ## 📫 Connect With Me
 
