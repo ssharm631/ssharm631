@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> 
-Hi! I’m Sagar — I help build and deploy intelligent systems. My focus: Generative AI, Machine Learning, Robotics, and real-time Computer Vision. Currently, I am working as a Research Assitant/Research Engineer in George Washington University's Assistive Robotics and Tele-medicine Lab, under the guidance of Dr. Chung Hyuk Park.
+Hi! I’m Sagar — a PhD student in Dr. Chung Hyuk Park's Assistive Robotics and Tele-medicine Lab, where I help build intelligent systems. My focus: Generative AI, Machine Learning, Robotic Learning Algorithms, and real-time Computer Vision. Currently, I am working on novel approaches to zero shot imitation learning and reinforcement learning.
 
 ## ⚙️ What I Do
 
